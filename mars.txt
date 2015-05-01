@@ -11,7 +11,7 @@ No way!
 |
 ------------
 
-_ A _ _ O _ _ E _
+_ A _ _ O _ _ E R
 Place
 
 A?
@@ -23,3 +23,4 @@ NOPE
 O?
 YES
 R?
+YES
