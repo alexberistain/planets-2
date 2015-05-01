@@ -24,3 +24,4 @@ O?
 YES
 R?
 YES
+N?
