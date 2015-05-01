@@ -5,7 +5,7 @@ No way!
 ------------
 |          |
 |          O
-|          |
+|         -|
 |       
 |
 |
@@ -15,7 +15,7 @@ _ A N _ O _ _ E R
 Place
 
 A?
-nope
+YES
 E?
 YES
 I?
@@ -26,3 +26,6 @@ R?
 YES
 N?
 YES
+T
+NO!
+
