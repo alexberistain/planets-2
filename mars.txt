@@ -11,7 +11,7 @@ No way!
 |
 ------------
 
-_ A _ _ O _ _ E R
+_ A N _ O _ _ E R
 Place
 
 A?
@@ -25,3 +25,4 @@ YES
 R?
 YES
 N?
+YES
